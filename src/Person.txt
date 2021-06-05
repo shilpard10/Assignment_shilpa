@@ -1,0 +1,11 @@
+{
+"name" : "shilpa",
+"contact" : 24234234,
+"address" : "Pune"
+"age" : 21
+"country" : "india"
+"Empid" : 12323
+"salary" : 100000
+"height" : 5.2
+"weight" : 50
+}
